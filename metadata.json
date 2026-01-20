@@ -1,0 +1,7 @@
+{
+  "name": "The Ultimate Notebook Companion",
+  "description": "An AI-powered workspace for notes, audio lessons, flashcards, and video explanations, inspired by NotebookLM.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
